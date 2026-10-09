@@ -4,7 +4,7 @@ import { GitHubIcon } from 'vue3-simple-icons'
 
 definePageMeta({ layout: false })
 
-const { title } = useAppConfig()
+const title = 'Lynk'
 const github = 'https://github.com/idmar'
 const features = [
   { icon: Link, title: '分享更简洁', description: '将长网址化为简短链接，让消息、邮件和社交分享更清晰。' },
@@ -69,7 +69,7 @@ useSeoMeta({
               mb-6 text-sm font-medium tracking-widest text-muted-foreground
             "
           >
-            GO.HITA.HK · 简洁分享
+            Lynk, Connect Fast｜快速连结
           </p>
           <h1
             id="hero-title" class="
