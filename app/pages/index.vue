@@ -171,11 +171,6 @@ useSeoMeta({
             "
           >Sink</a>
           · <a
-            href="https://github.com/idmar/Sink" target="_blank" rel="noopener noreferrer" class="
-              underline underline-offset-4
-            "
-          >本站源码</a>
-          · <a
             href="https://github.com/miantiao-me/Sink/blob/master/LICENSE" target="_blank" rel="noopener noreferrer" class="
               underline underline-offset-4
             "
