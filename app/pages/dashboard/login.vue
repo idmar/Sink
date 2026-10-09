@@ -1,6 +1,11 @@
 <script setup lang="ts">
 definePageMeta({
-  layout: 'default',
+  layout: 'login',
+})
+
+useSeoMeta({
+  title: 'Lynk',
+  description: 'Lynk, Connect Fast｜快速连结',
 })
 </script>
 
